@@ -149,7 +149,7 @@ Most of the material is currently organized as a development repository. Future 
 
 Developed by:
 
-- [@erickmone](https://www.github.com/erickmone)
+- Michael Hernández & [@erickmone](https://www.github.com/erickmone)
 
 You can also follow my academic work here:
 
